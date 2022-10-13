@@ -1,0 +1,44 @@
+body {    
+    text-align: center;
+    background-color: #4D4D4D; 
+    background-image: linear-gradient(45deg, #4A0A0A, #122E964F);
+     
+  }
+  div.main { 
+        margin: auto;
+        border-style: hidden;
+        border-radius: 60px;
+        padding: 20px;
+        height: auto;
+        width: 50%;
+        background-color: #E7E4E4;        
+  }
+
+table * {
+    margin: auto;
+}
+
+table#visible {
+  margin: auto;
+}
+
+table#visible td, table#visible th {
+  border: 1px solid #ADA9A9;
+  padding: 10px;
+  
+  
+}
+div.sub {
+  margin: auto;
+  border-style: hidden;
+  border-radius: 30px;
+  padding: 20px;
+  height: auto;
+  width: 80%;
+  background-color:rgba(179, 179, 179, 0.247)
+}
+ol, dl {
+  text-align: left;
+}
+Img.col { 
+  border-radius: 15%;}
